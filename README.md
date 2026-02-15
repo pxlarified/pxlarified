@@ -4,6 +4,14 @@ a developer and business owner who has a strong interest in servers, home networ
 I enjoy researching affordable hardware options, enhancing system performance, and imparting knowledge on how to operate dependable, safe systems at home.
 
 Curiosity and the desire to make complicated setups more accessible to a wider audience are the driving forces behind my projects (the mizius network and mizius bot hosting are two examples). I also occasionally construct and test servers purely for the purpose of experimenting and discovering new possibilities. 🧪<br><br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)<br><br>
-✉️ E-Mail | jan.kramer@mizius.com
-🌐 Website | www.mizius.com
+
+<p align="center">
+  <a href="https://mizius.com/the_jan_craft">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,typescript,react,python,mongo,c&theme=dark" />
+  </a>
+  <a>
+    <br><br>
+    ✉️ E-Mail | jan.kramer@mizius.com
+    🌐 Website | www.mizius.com
+  </a>
+</p>
